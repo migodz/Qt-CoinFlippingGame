@@ -5,7 +5,7 @@ A GUI coin flipping game made with Qt &amp; C++ code.
 
 Qt版本：5.14.2
 
-类介绍
+类说明
 
 - MainWindow: 进入游戏的窗口
 - ChooseLevelScene: 选择关卡的窗口
